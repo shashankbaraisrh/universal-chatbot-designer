@@ -5,14 +5,14 @@ Design, test, and run chatbots **without coding**.
 Visual flow editor (React Flow) + Python/Flask backend using a **universal JSON** conversation schema, optional GPT handoff, and SUS usability evaluation. Includes an archived Tkinter prototype used to validate flows.
 
 
-## Repo Structure
 
-universal-chatbot-designer/
-├─ mindpeace-designer/                # Main app
-│  ├─ frontend/                       # React Flow UI (React app)
-│  └─ backend/                        # Python/Flask API
-├─ tkinter-prototype-conversation-flow-tester/  # Tkinter flow tester (archived)
-└─ evaluation/                        # SUS/usability data & analysis
+
+## Repo Structure
+- **mindpeace-designer/**
+  - **frontend/** – React Flow UI (React app)
+  - **backend/** – Python/Flask API
+- **tkinter-prototype-conversation-flow-tester/** – Tkinter flow tester (archived)
+- **evaluation/** – SUS/usability data & analysis
 
 
 ## Features
