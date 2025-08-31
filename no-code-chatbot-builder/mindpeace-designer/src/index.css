@@ -1,0 +1,17 @@
+button {
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-right: 10px;
+  font-size: 15px;
+  border-radius: 999px; /* Makes it fully rounded */
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #1e40af;
+  transform: translateY(-2px);
+}
