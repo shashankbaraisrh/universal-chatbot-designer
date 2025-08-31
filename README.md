@@ -8,11 +8,11 @@ Visual flow editor (React Flow) + Python/Flask backend using a **universal JSON*
 ## Repo Structure
 
 universal-chatbot-designer/
-├─ mindpeace-designer/ # Main app
-│ ├─ frontend/ # React Flow UI (React app)
-│ └─ backend/ # Python/Flask API
-├─ tkinter-prototype-conversation-flow-tester/ # Tkinter flow tester (archived)
-└─ evaluation/ # SUS/usability data & analysis
+├─ mindpeace-designer/                # Main app
+│  ├─ frontend/                       # React Flow UI (React app)
+│  └─ backend/                        # Python/Flask API
+├─ tkinter-prototype-conversation-flow-tester/  # Tkinter flow tester (archived)
+└─ evaluation/                        # SUS/usability data & analysis
 
 
 ## Features
